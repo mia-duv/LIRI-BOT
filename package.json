@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mia-duv/LIRI-BOT.git"
+  },
+  "keywords": [],
+  "author": "mia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mia-duv/LIRI-BOT/issues"
+  },
+  "homepage": "https://github.com/mia-duv/LIRI-BOT#readme"
+}
